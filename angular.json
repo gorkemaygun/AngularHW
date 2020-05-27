@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularLab"
+    }
+  },
+  "defaultProject": "AngularLab",
+  "cli": {
+    "analytics": "bed4f2c8-0540-4e3b-bdc3-51484f54a892"
+  }
 }
